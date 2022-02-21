@@ -3,6 +3,7 @@ Statistiska centralbyråns riktlinje för öppen källkod togs fram i sin först
 
 ## Licens
 Tillgängliggörs under licensen [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Diarienummer
